@@ -94,4 +94,10 @@ header {
         width: 89%;
         flex-direction: column;
     }
+
+    .about-1 {
+        flex: 0;
+        text-align: center;
+    }
+    
 }
